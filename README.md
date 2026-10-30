@@ -1,13 +1,51 @@
-# Sales-Analysis
+# Sales Analysis Project
 
-## Project Overview
-The Retail Sales Analytics project focuses on analyzing retail sales data to identify business trends, evaluate sales performance, and understand profitability across different product categories, regions, and customer segments. The main objective is to transform raw sales data into meaningful insights that can support better business decision-making.
+## 1. Project Overview
+This project focuses on analyzing retail sales data to understand business performance, identify sales trends, and evaluate profitability across different product categories, regions, and customer segments.
 
-## Tools & Technologies
-This project uses **Microsoft Excel, Python (Pandas and NumPy), and Tableau** for data cleaning, exploratory data analysis (EDA), and data visualization. Python is used to clean and process the dataset, Excel helps with preliminary analysis, and Tableau is used to create interactive dashboards and visual reports.
+The objective is to transform raw sales data into meaningful insights using data cleaning, exploratory data analysis, and visualization techniques.
 
-## Key Analysis & Insights
-The analysis explores total sales, profit, profit margins, regional performance, product category performance, and the impact of discounts on profitability. It also identifies high-performing and low-performing products and highlights areas where the business can improve its sales and profit margins.
+## 2. Project Objectives
+- Analyze overall sales and profit performance.
+- Identify the highest and lowest performing product categories.
+- Compare sales and profitability across different regions.
+- Understand the relationship between discounts and profit.
+- Identify business trends and generate actionable insights.
 
-## Project Outcome
-Through this project, I gained practical experience in data cleaning, exploratory data analysis, business insight generation, and dashboard development. The findings help identify profitable product categories, understand regional sales patterns, and provide data-driven recommendations for improving overall business performance.
+## 3. Tools & Technologies
+- **Microsoft Excel:** Data analysis, calculations, pivot tables, and charts.
+- **Python:** Data cleaning and exploratory data analysis using Pandas and NumPy.
+- **Tableau:** Data visualization and dashboard creation.
+
+## 4. Dataset Description
+The project uses a retail sales dataset containing information about product categories, sub-categories, sales, profit, discounts, customer segments, and geographical regions.
+
+Both the original dataset and cleaned dataset are included in the Dataset folder.
+
+## 5. Project Structure
+
+- **Dataset:** Contains the original and cleaned datasets.
+- **Excel-Analysis:** Contains Excel-based analysis and calculations.
+- **Python-Analysis:** Contains Python programs used for data cleaning and exploratory data analysis.
+- **Visualization-Analysis:** Contains charts, visual representations, and Tableau dashboards.
+
+## 6. Analysis Performed
+- Data cleaning and preprocessing using Python.
+- Exploratory data analysis to understand sales and profitability.
+- Category-wise and region-wise performance analysis.
+- Discount and profit relationship analysis.
+- Data visualization using Tableau.
+
+## 7. Key Insights
+- Identified the highest-performing product categories and regions.
+- Analyzed products and sub-categories generating the highest and lowest profits.
+- Evaluated the impact of discounts on overall profitability.
+- Identified areas where business performance could be improved.
+
+## 8. Conclusion
+This project provided practical experience in data cleaning, exploratory data analysis, business insight generation, and data visualization. It demonstrates how Excel, Python, and Tableau can be used together to analyze retail data and support data-driven business decisions.
+
+## 9. Author
+**Atharva Ranshur**
+
+
